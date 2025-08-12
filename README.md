@@ -21,7 +21,7 @@ If you want to use it with your own API key:
 3. Replace it in `script.js` where it says `apiKey`
 
 ## Live Demo
-[See it here] 
+[See it here] (https://anshhz03.github.io/Weather-App/)
 
 ---
 
